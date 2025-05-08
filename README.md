@@ -1,47 +1,12 @@
-
 # 🎭 ICON SET PROJECTS
+[![PayPal Donation](https://img.shields.io/badge/PayPal-Дари-синьо?logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=AAWFZVF2XCP5A)
+![Script](https://img.shields.io/badge/logo-yaml-green?logo=yaml)
+[![Bulgarian](https://img.shields.io/badge/Български-език-green?logo=translate&labelColor=gray&style=flat-square&link=https://example.com/bg)](BG.md)
 
-Коплекти с икони подходящи за прокти, компютеи, телефони, сайтове и прочие. Към чсеки комплект от икони на кратко ще обясня за какво съм ги създал и къде съм ги използвал или просто как се е зародила идеята за тях.
-
----
-
-## 📦 __Contents__
-
-- [icon_url](#демо)
+Icon sets suitable for projects, computers, phones, websites, and so on. For each icon set, I will briefly explain why I created it, where I have used it, or simply how the idea for it was born.
 
 ---
 
-### 🔗🖼️ icon_url
-
-----
-
-##### 💬 Description
-
-##### ⚙️ Употреба
-
-##### 🖼️ Изображения
-
-[Тексто до моят увб сайт](https://pasev.asuscomm.com)
-
-[![нещо си](https://camo.githubusercontent.com/e92df511bc81280c59f187c087f876f52cdf4602d91a26a4041f95e0b7ddd83e/68747470733a2f2f6d792e686f6d652d617373697374616e742e696f2f6261646765732f696e746567726174696f6e732e737667)](https://pasev.asuscomm.com)
-
-> това е цитат.
----
-дасдасддае
-
-```bash
-asdasd
-```
-
-```yaml
-asdasd
-```
-
-| колона1  | колона2  |
-|-----|-----|
-| 1  | 2  |
-| 3  | 4  |
-| 5  | 6  |
-| 7  | 8 |
-| 9 | 10 |
-| 11 | 12 |
+> [!TIP]
+> If you liked this project, you can find more interesting projects made by me [HERE](https://github.com/Bacard1?tab=repositories).<br>
+> If you have any difficulties or questions, don’t hesitate to contact me.
